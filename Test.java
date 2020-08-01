@@ -5,5 +5,10 @@ Public Class Test  {
          System.out.println("Hellow World 2");
   
     }
+  
+    public  void mthod1 () {
+        System.out.println("Instance method");
+  
+    }
 
 }
